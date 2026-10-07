@@ -1,0 +1,7 @@
+Upload the original PNG files here via GitHub's Add file > Upload files:
+- YETlogo.png
+- ORI_isotipo.png
+- ORInoback.png
+- ORIblack.png
+
+Codex should use the originals directly and must not redraw them.
